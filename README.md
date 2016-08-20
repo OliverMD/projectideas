@@ -7,4 +7,4 @@ It consists of 2 sections:
 * Specified Ideas - Ideas that have had more thought put in to them. With a few supporting documents.
 
 # Contents
-* Brief Ideas
+* [Brief Ideas](briefideas.md)
