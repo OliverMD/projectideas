@@ -9,3 +9,9 @@
 * Rpi photobooth
 * Rpi Router
 * Rpi Sleep monitor and alarm w/ light
+* MP3 Player
+* Video Streamer
+* Bandwidth monitor, with pi?
+* Virtual Machine
+* Text Editor with syntax highlighting
+* [Contribute to Ubuntu](https://wiki.ubuntu.com/ContributeToUbuntu)
